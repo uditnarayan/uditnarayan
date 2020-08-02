@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am working with [HackerEarth](https://www.hackerearth.com/) as a part of the team which develops the Developer Sourcing and Technical Assessment product called Recruit.
+I am working with [HackerEarth](https://www.hackerearth.com/) as a part of the team which develops the Developer Sourcing and Technical Assessment product called [Recruit](https://www.hackerearth.com/recruit/).
 
 Prior to HackerEarth, I served as Technology Analyst, Senior Systems Engineer and Systems Engineer at Infosys where I worked with Corporate Knowledge Management (KM) Group which develops processes and platforms to preserve the knowledge which is produced as well as shared inside Infosys. I contributed to KM solutions like professional networking platform, enterprise search, online learning for Infosys.
 
